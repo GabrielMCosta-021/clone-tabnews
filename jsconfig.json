@@ -1,5 +1,5 @@
 {
   "compilerOptions": {
-    "baseUrl": "."
+    "baseUrl": "." //. = arquivo atual - .. = pasta anterior - ... = duas pastas antes
   }
 }
